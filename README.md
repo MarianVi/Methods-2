@@ -1,0 +1,1 @@
+Implementează o metodă care primește ca parametru un număr întreg și returnează numărul de cifre al acelui număr. Testează metoda implementată și demonstrează funcționarea corectă a acesteia prin diverse apeluri (în main(…)).
